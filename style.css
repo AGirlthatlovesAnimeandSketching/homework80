@@ -1,0 +1,14 @@
+#displaynameswithcoma{
+    border:1px solid green;
+    background-color: rgb(141, 192, 64);
+    padding:10px;
+    border-radius:10px; 
+    width: 50%;
+}
+#displaynameswithoutcoma{
+    border:1px solid rgb(146, 33, 33);
+    background-color: rgb(189, 88, 88);
+    padding:10px;
+   border-radius:10px;
+    width: 50%;
+}
